@@ -1,0 +1,4 @@
+myenv/
+__pycache__/
+.envpython -m pip install fastapi uvicorn
+python -m pip freeze > requirements.txt
